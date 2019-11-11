@@ -1,0 +1,6 @@
+{
+  "name": "HomeCard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./HomeCard.js"
+}

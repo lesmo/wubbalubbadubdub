@@ -1,0 +1,46 @@
+/*
+ * Base styles
+ * ========================================================================== */
+
+html {
+  color: #fff;
+  font-weight: 100;
+  font-size: 1em; /* ~16px; */
+  line-height: 1.375; /* ~22px */
+}
+
+body {
+  margin: 0;
+}
+
+.bgVideo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -100;
+}
+
+.bgVideoOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -100;
+}
+
+@media (min-aspect-ratio: 16/9) {
+  .bgVideo {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .bgVideo {
+    width: auto;
+    height: 100%;
+  }
+}

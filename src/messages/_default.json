@@ -1,0 +1,130 @@
+[
+  {
+    "id": "header.search",
+    "defaultMessage": "Search the Universe",
+    "message": "",
+    "files": [
+      "src/components/Search/Search.js"
+    ]
+  },
+  {
+    "id": "character.episodes",
+    "defaultMessage": "Episodes",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "character.gender",
+    "defaultMessage": "Gender",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "character.location",
+    "defaultMessage": "Location",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "character.origin",
+    "defaultMessage": "Origin",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "character.species",
+    "defaultMessage": "Species",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "character.status",
+    "defaultMessage": "Status",
+    "message": "",
+    "files": [
+      "src/routes/character/Character.js"
+    ]
+  },
+  {
+    "id": "episode.airDate",
+    "defaultMessage": "Air Date",
+    "message": "",
+    "files": [
+      "src/routes/episode/Episode.js"
+    ]
+  },
+  {
+    "id": "episode.characters",
+    "defaultMessage": "Characters",
+    "message": "",
+    "files": [
+      "src/routes/episode/Episode.js"
+    ]
+  },
+  {
+    "id": "episode.episode",
+    "defaultMessage": "Episode",
+    "message": "",
+    "files": [
+      "src/routes/episode/Episode.js"
+    ]
+  },
+  {
+    "id": "home.characters.description",
+    "defaultMessage": "Everyone who appeared in any of the dimensions, for short or long, alive or death.",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  },
+  {
+    "id": "home.characters.title",
+    "defaultMessage": "Characters",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  },
+  {
+    "id": "home.episodes.description",
+    "defaultMessage": "All episodes already aired, but not necessarily available in your streaming service.",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  },
+  {
+    "id": "home.episodes.title",
+    "defaultMessage": "Episodes",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  },
+  {
+    "id": "home.locations.description",
+    "defaultMessage": "Every location where these crazy adventures take place.",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  },
+  {
+    "id": "home.locations.title",
+    "defaultMessage": "Locations",
+    "message": "",
+    "files": [
+      "src/routes/home/Home.js"
+    ]
+  }
+]
