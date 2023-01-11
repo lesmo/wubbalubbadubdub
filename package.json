@@ -39,7 +39,7 @@
     "intl": "^1.2.5",
     "intl-locales-supported": "^1.0.0",
     "isomorphic-style-loader": "^5.1.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.5",
     "node-fetch": "^2.2.0",
     "normalize.css": "^8.0.0",
